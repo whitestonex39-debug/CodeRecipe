@@ -1,0 +1,12 @@
+# Visual Studioの個人設定
+.vs/
+*.user
+
+# .NETのビルド生成物
+bin/
+obj/
+
+# Angularの依存パッケージ・生成物
+node_modules/
+dist/
+.angular/
